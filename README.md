@@ -37,7 +37,7 @@
         <pre><code>cd Task-manager-WebApp</code></pre>
       </li>
       <li>Install the dependencies:
-        <pre><code>npm install react react-dom	react-scripts	uuid framer-motion</code></pre>
+        <pre><code>npm install react react-dom react-scripts uuid framer-motion</code></pre>
       </li>
       <li>Start the app:
         <pre><code>npm start</code></pre>
