@@ -1,38 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Task Manager App</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 20px;
-      background-color: #f5f7fa;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #4f46e5;
-    }
-    p, li {
-      font-size: 1rem;
-      line-height: 1.6;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    code {
-      background: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-  </style>
-</head>
-<body>
-
   <h1>📋 Task Manager App</h1>
   <p>A clean and minimal Task Manager built with React. Easily add, edit, complete, delete, and sort your tasks by due date and time — with smooth animations and a clean modern design.</p>
 
@@ -66,13 +31,13 @@
     <h2>🛠 Installation</h2>
     <ol>
       <li>Clone the repository:
-        <pre><code>git clone https://github.com/your-username/task-manager.git</code></pre>
+        <pre><code>git clone https://github.com/kailash105/Task-manager-WebApp</code></pre>
       </li>
       <li>Navigate to the project folder:
-        <pre><code>cd task-manager</code></pre>
+        <pre><code>cd Task-manager-WebApp</code></pre>
       </li>
       <li>Install the dependencies:
-        <pre><code>npm install</code></pre>
+        <pre><code>npm install react react-dom	react-scripts	uuid framer-motion</code></pre>
       </li>
       <li>Start the app:
         <pre><code>npm start</code></pre>
